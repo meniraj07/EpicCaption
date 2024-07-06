@@ -14,7 +14,6 @@ Save Time: Quick and efficient caption generation.
 
 
 📚 Get Started
-Clone: git clone https://github.com/niraj712/epiccaptions.git
 Install: npm install
 Run: npm run dev
 Upload: Add your video, and let EpicCaptions do the rest.
